@@ -1,0 +1,23 @@
+name: 321SBK
+favicon: null
+layout_spectrum: 0.12115644663572311
+typography_spectrum: 0.8211894377600402
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8167782023083419
+  lightness: 0.5954142783302814
+  saturation: 0.8768598928581923
+  rhythmicContrast: 0.12254427513107657
+purpose: []
